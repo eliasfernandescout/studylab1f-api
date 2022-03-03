@@ -1,0 +1,11 @@
+{
+  "name": "traininghub1f-api",
+  "version": "1.0.0",
+  "description": "Treinar conhecimento em NodeJS fazendo desafio de vagas para desenvolvedor back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elias Fernandes",
+  "license": "ISC"
+}
