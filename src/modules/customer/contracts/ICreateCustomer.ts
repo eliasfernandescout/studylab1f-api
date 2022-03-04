@@ -1,5 +1,4 @@
-
-import { Customer } from '@/modules/customer/infra/mongodb/entities'
+import { Customer } from '../infra/mongodb/entities'
 
 export interface ICreateCustomerContract {
   createCustomer: (params: NCreateCustomerContract.Params) => NCreateCustomerContract.Result
